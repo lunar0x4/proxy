@@ -1,0 +1,33 @@
+socks5://103.191.218.119:69 #AS149930 PT Replay Inti Media
+socks5://103.75.118.84:1080 #AS136258 BrainStorm Network, Inc
+socks5://107.219.228.250:7777 #AS7018 AT&T Enterprises, LLC
+socks5://108.242.235.175:5555 #AS7018 AT&T Enterprises, LLC
+socks5://118.107.29.235:5555 #AS152194 CTG Server Limited
+socks5://110.232.86.221:1080 #AS23679 PT. Media Antar Nusa
+socks5://119.148.7.10:22122 #AS23923 Agni Systems Limited
+socks5://113.176.118.150:1080 #AS45899 VNPT Corp
+socks5://129.151.198.68:1111 #AS31898 Oracle Corporation
+socks5://146.235.230.154:21080 #AS31898 Oracle Corporation
+socks5://129.150.55.165:1080 #AS31898 Oracle Corporation
+socks5://144.31.101.200:1080 #AS207513 LLC "HOSTOFF CSL"
+socks5://13.114.141.222:1080 #AS16509 Amazon.com, Inc.
+socks5://125.24.156.113:7080 #AS23969 TOT Public Company Limited
+socks5://144.31.27.49:1080 #AS213877 U1 DIGITAL SERVICES LTD
+socks5://152.53.144.223:1080 #AS197540 netcup GmbH
+socks5://151.241.229.104:1080 #AS57043 HOSTKEY B.V.
+socks5://162.19.253.202:8443 #AS16276 OVH SAS
+socks5://161.97.184.191:1080 #AS51167 Contabo GmbH
+socks5://154.12.176.85:8080 #AS906 DMIT Cloud Services
+socks5://164.90.185.232:1080 #AS14061 DigitalOcean, LLC
+socks5://165.232.113.227:1081 #AS14061 DigitalOcean, LLC
+socks5://167.172.161.22:1080 #AS14061 DigitalOcean, LLC
+socks5://167.172.161.22:1081 #AS14061 DigitalOcean, LLC
+socks5://164.90.221.76:1081 #AS14061 DigitalOcean, LLC
+socks5://167.235.193.179:33261 #AS24940 Hetzner Online GmbH
+socks5://172.81.111.156:10001 #AS400618 Prime Security Corp.
+socks5://169.155.50.87:1080 #AS40509 Fly.io, Inc.
+socks5://185.125.201.149:7443 #AS210976 Timeweb, LLP
+socks5://185.214.108.46:40000 #AS50053 VDSka hosting
+socks5://185.167.98.81:7777 #AS41436 Kamatera Inc
+socks5://193.233.254.38:1080 #AS213887 WAIcore Ltd
+socks5://206.123.156.177:4396 #AS213790 Limited Network LTD
