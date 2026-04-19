@@ -1,61 +1,63 @@
-# Proxy Repository
+# 🌐 Proxy Repository
 
-A repository containing regularly updated proxy lists, organized into three categories: **Mobile**, **Residential**, and **Datacenter**.  
-Each update includes `.tar.gz` archives containing proxies grouped by type.
+A curated repository of proxy lists, organized by category.
 
-This project is intended for developers, researchers, and network engineers who want to study how different network types behave, classify IP ranges, or build tooling around proxy identification.
+This repository provides proxies in different types to help with testing, development, and network research.
+
+All proxy lists are packaged as `.tar.gz` archives and updated periodically.
 
 ---
 
 ## 📦 Proxy Categories
 
-### 📱 Mobile
-Mobile proxies originate from mobile carrier networks.  
-They typically rotate frequently due to carrier‑grade NAT and may behave differently from fixed‑line connections.
+### 📱 Mobile Proxies
+Mobile proxies are the rarest type.
 
-**Characteristics**
-- Assigned by mobile carriers  
-- High rotation  
-- Often share large NAT pools  
-- Useful for testing mobile‑specific behaviour  
+- Routed through mobile carriers (4G/5G networks)
+- Harder to detect and block
+- Often highly dynamic (IPs change frequently)
+- Limited availability compared to other types
 
 ---
 
-### 🏠 Residential
-Residential proxies come from consumer ISPs that provide home broadband connections.  
-They tend to resemble typical household traffic patterns.
+### 🏠 Residential Proxies
+Residential proxies are IPs assigned by real ISPs to home users.
 
-**Characteristics**
-- Assigned to home internet customers  
-- Moderate stability  
-- Behave like standard consumer traffic  
-- Useful for testing consumer‑facing services  
+- Appear as normal household internet connections
+- Less likely to be blocked compared to datacenter proxies
+- Medium rarity in proxy datasets
+- Good balance of performance and legitimacy
 
 ---
 
-### 🏢 Datacenter
-Datacenter proxies originate from cloud platforms, hosting providers, and VPS servers.  
-These are the most common type found in public proxy lists.
+### 🏢 Datacenter Proxies
+Datacenter proxies are the most common type.
 
-**Characteristics**
-- Hosted in cloud or server environments  
-- Very common in public lists  
-- Often easier for services to classify  
-- Useful for infrastructure testing and research  
+- Hosted on cloud or server infrastructure
+- Very high availability and large pools
+- Easier to detect and block
+- Useful for high-volume or non-sensitive tasks
 
 ---
 
 ## 📁 File Format
-Each category is provided as a `.tar.gz` archive.  
-The structure may vary depending on the update, but typically includes plain text lists of proxies.
+
+All proxies are stored in compressed archives:
+
+```txt
+.tar.gz
+```
+
+Each archive contains categorized proxy lists.
+
+---
+
+## ⚠️ Notes
+Proxy availability may change frequently
+Some proxies may stop working over time
+Performance varies depending on category and source
 
 ---
 
 ## 🔄 Updates
-Updates are published manually and may occur at irregular intervals.
-
----
-
-## 📜 Disclaimer
-This repository is for **educational and research purposes only**.  
-Always ensure you have permission to use any proxy and follow all applicable laws and service policies.
+This repository is updated randomly as new proxies are collected and verified.
